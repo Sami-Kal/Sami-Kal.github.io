@@ -1,0 +1,14 @@
+Health-Insurance-Claims-Analytics
+
+│
+├── data
+│   └── insurance.csv
+│
+├── dashboard
+│   └── powerbi_dashboard.pbix
+│
+├── images
+│   └── dashboard_preview.png
+│
+│
+└── README.md
